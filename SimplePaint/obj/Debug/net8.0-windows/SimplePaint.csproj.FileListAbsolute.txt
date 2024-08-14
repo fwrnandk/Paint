@@ -1,0 +1,16 @@
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.FormPrincipal.resources
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.csproj.GenerateResource.cache
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.AssemblyInfoInputs.cache
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.AssemblyInfo.cs
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.csproj.CoreCompileInputs.cache
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.exe
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.deps.json
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.runtimeconfig.json
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.dll
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.pdb
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.dll
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\refint\SimplePaint.dll
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.pdb
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.genruntimeconfig.cache
+C:\Users\brupe\source\repos\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\ref\SimplePaint.dll
